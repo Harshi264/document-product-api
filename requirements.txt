@@ -11,6 +11,7 @@ langchain-huggingface
 PyMuPDF
 langchain
 groq
+sentence-transformers
 
 
 
