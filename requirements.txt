@@ -6,5 +6,5 @@ supabase
 python-multipart
 openai
 pydantic
-pinecone-client
+pinecone
 
