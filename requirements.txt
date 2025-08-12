@@ -9,5 +9,8 @@ pydantic
 pinecone
 langchain-huggingface
 PyMuPDF
+langchain
+groq
+
 
 
