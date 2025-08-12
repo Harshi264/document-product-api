@@ -1,5 +1,5 @@
 from fastapi import APIRouter, File, UploadFile, HTTPException
-from app.rag_service import ingest_document  # Import from your local rag_service.py
+from app.services.rag_service import ingest_document  # Import from your local rag_service.py
 import shutil
 import os
 
